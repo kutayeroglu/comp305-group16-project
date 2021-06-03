@@ -77,7 +77,7 @@ The jupyter notebook file has different versions of the code from base to final.
 TEST CASES
 
 Gezgin test-case 1 results: [1, 2, 4, 5, 3, 1] (correct)
-Gezgin test-case 2 results: [3, 3, 3, 2, 2] (correct
+Gezgin test-case 2 results: [3, 3, 3, 2, 2] (correct)
 Gezgin test-case 3 and 4 results: these are big data and can be obtained from code. (correct also)
 
 
