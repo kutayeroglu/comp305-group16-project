@@ -81,7 +81,7 @@ Gezgin test-case 2 results: [3, 3, 3, 2, 2] (correct)
 Gezgin test-case 3 and 4 results: these are big data and can be obtained from code. (correct also)
 
 
-Gezgin test-case 3 and 4 : 6 minutes for case 3 and aproximately 1 hour for case 4.
+Gezgin test-case 3 and 4 : 15.86 minutes for case 3 and aproximately 396.66 minutes for case 4.
 
 FINAL ALGORITHM 
 
